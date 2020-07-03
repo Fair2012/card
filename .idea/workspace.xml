@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8513ff8-55b8-48d5-a304-241607e09e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pb_template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardinfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/billfort/css/billfort.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/billfort/css/jBox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/billfort/images/bf_favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/billfort/images/card-input-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/billfort/images/card-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/billfort/js/billfort1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/billfort/js/jBox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/billfort/js/jquery-1.9.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/billfort/js/jquery.maskedinput.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593754525245</updated>
-      <workItem from="1593754526919" duration="11563000" />
+      <workItem from="1593754526919" duration="12171000" />
     </task>
     <servers />
   </component>
