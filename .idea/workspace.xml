@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8513ff8-55b8-48d5-a304-241607e09e74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/template/billfort/js/pasa_jquery.maskedinput.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/billfort/js/jquery.maskedinput.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/billfort/js/jquery.maskedinput.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/template/billfort/js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OS_530\domains\pb_template\template\billfort\js" />
+      <recent name="C:\OS_530\domains\pb_template" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -62,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593754525245</updated>
       <workItem from="1593754526919" duration="12171000" />
+      <workItem from="1593778308292" duration="2216000" />
     </task>
     <servers />
   </component>
